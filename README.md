@@ -4,7 +4,7 @@
 
 clone the project from the repository
 
-### `git clone `
+### `git clone https://github.com/Nekromenzer/trade.git`
 
 navigate to the project directory
 
