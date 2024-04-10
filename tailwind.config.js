@@ -4,5 +4,7 @@ module.exports = {
   theme: {
     extend: {}
   },
-  plugins: []
+  plugins: [],
+  // use this to write webkit, moz, ms, etc.
+  autoprefixer: {}
 }

@@ -17,12 +17,6 @@
     "@typescript-eslint/triple-slash-reference": "off",
     "@typescript-eslint/space-before-function-paren": "off",
     "@typescript-eslint/consistent-type-definitions": ["error", "type"],
-    "semi": ["error", "never"],
-    "check-file/folder-naming-convention": [
-      "warn",
-      {
-        "src/**/": "CAMEL_CASE"
-      }
-    ]
+    "semi": ["error", "never"]
   }
 }
