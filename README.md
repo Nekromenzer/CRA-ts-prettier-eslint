@@ -4,7 +4,7 @@
 
 clone the project from the repository
 
-### `git clone https://github.com/Nekromenzer/trade.git`
+### `git clone https://github.com/Nekromenzer/CRA-ts-prettier-eslint.git`
 
 navigate to the project directory
 
