@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <Input />
-        <p className="mx-5 bg-red-400 pt-4 text-3xl font-bold text-red-500 hover:text-slate-400">
+        <p className="bg-red-400 pt-4 text-3xl font-bold text-red-500 hover:text-slate-400">
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
         <a
